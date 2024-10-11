@@ -4,7 +4,7 @@ public class Arrays {
         String[] cars={" Camaro","Corvette","Tesla"};
         cars[0]="Mustang";
         System.out.println(cars[0]);
-        String[] cars=new String[3];
+
 
     }
 }
