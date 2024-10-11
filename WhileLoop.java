@@ -11,6 +11,6 @@ public class WhileLoop {
      System.out.println("hello "+name);
 
 
- }
+ }  
 
 }
