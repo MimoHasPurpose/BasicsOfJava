@@ -22,5 +22,6 @@ public class ArrayListTwo {
         groceryList.add(produceList);
         groceryList.add(drinksList);
         System.out.println(groceryList);
+        System.out.println(groceryList.get(2).get(0));
     }
 }
