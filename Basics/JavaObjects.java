@@ -1,3 +1,5 @@
+package Basics;
+
 public class JavaObjects{
     public static void main(String[] args){
         Car myCar1=new Car();

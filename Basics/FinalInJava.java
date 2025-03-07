@@ -1,3 +1,5 @@
+package Basics;
+
 public class FinalInJava {
     public static void main(String [] args){
         final double pi =3.1425;

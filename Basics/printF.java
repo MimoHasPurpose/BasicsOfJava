@@ -1,3 +1,5 @@
+package Basics;
+
 public class printF {
     public static void main(String [] args){
 //        System.out.printf("This is a format string %d", 123);

@@ -1,3 +1,5 @@
+package Basics;
+
 public class Switchs {
 
     public static void main(String[] args){
