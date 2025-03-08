@@ -3,9 +3,17 @@
 
 
 The repo contains all the code i wrote while i was learning java.
+
+The important thopis this repo contains are -
+1. basics(loops, array, arrayLists)
+2. oops (Class, Object, Abstraction, Encapsulation, Inheritance) 
+
+
+
 ## Authors
 
 - [@MimoHasPurpose](https://www.github.com/MimoHasPurpose)
+- [@sahil3028](https://github.com/sahil3028)
 
 
 ## Feedback
