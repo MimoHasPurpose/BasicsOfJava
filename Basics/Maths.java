@@ -1,3 +1,4 @@
+package Basics;
 
 public class Maths {
     public static void main(String[] args){
