@@ -4,9 +4,16 @@
 
 The repo contains all the code i wrote while i was learning java.
 
-The important thopis this repo contains are -
+The important topics this repo contains are -
 1. basics(loops, array, arrayLists)
-2. oops (Class, Object, Abstraction, Encapsulation, Inheritance) 
+2. Objects
+3. Method Overriding
+4. Super Class
+5. polymorphism
+6. Dynamic Polymorphism
+7. Abstraction
+8. Encapsulations
+9. Interfaces
 
 
 
