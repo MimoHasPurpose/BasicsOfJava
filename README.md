@@ -11,9 +11,11 @@ The important thopis this repo contains are -
 
 
 ## Authors
+<a href="https://github.com/MimoHasPurpose/BasicsOfJava/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MimoHasPurpose/BasicsOfJava" />
+</a>
 
-- [@MimoHasPurpose](https://www.github.com/MimoHasPurpose)
-- [@sahil3028](https://github.com/sahil3028)
+Made with [contrib.rocks](https://contrib.rocks).
 
 
 ## Feedback
