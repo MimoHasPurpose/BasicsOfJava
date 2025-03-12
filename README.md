@@ -15,7 +15,7 @@ The important thopis this repo contains are -
   <img src="https://contrib.rocks/image?repo=MimoHasPurpose/BasicsOfJava" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+
 
 
 ## Feedback
