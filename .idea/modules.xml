@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AccessModifiers/AccessModifiers.iml" filepath="$PROJECT_DIR$/AccessModifiers/AccessModifiers.iml" />
       <module fileurl="file://$PROJECT_DIR$/DivingIntoJava.iml" filepath="$PROJECT_DIR$/DivingIntoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects/test/test.iml" filepath="$PROJECT_DIR$/Projects/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects/test2/test2.iml" filepath="$PROJECT_DIR$/Projects/test2/test2.iml" />
     </modules>
   </component>
 </project>
